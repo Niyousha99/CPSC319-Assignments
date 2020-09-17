@@ -1,5 +1,7 @@
 # Assignment 3
 
+The goal of this assignment is to create a BST of unique words from a given input text file and keep track of the frequency of the words in the text.
+
 ## Build instructions
 
 ```bash
