@@ -1,5 +1,7 @@
 # Assignment 1
 
+The goal of this assignment is to implement and compare different algorithms that solve the same problem. In this case, the problem is to compute the nth Fibonacci number.
+
 ## Build instructions
 
 ```bash
