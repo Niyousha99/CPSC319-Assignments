@@ -1,5 +1,7 @@
 # Assignment 2
 
+This Java program arranges a list of words into separate lists of anagrams.
+
 ## Build instructions
 
 ```bash
