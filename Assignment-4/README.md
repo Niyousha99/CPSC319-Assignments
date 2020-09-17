@@ -1,5 +1,7 @@
 # Assignment 4
 
+The goal of this assignment is to use data from a project in image processing to create and explore data using a graph structure. The storage structure being used is an adjacency matrix. From this graph, a minimum spanning tree (MST) is then created.
+
 ## Build instructions
 
 ```bash
